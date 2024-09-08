@@ -6,5 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-FLutter version 3.10.3 
+FLutter version 3.22.2 
 use provider package to handle the state managment.
